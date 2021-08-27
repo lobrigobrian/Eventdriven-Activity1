@@ -1,0 +1,82 @@
+body {
+	background-color: antiquewhite;
+}
+
+h1 {
+   left: 2%;
+   top: 182px;
+   bottom: 10px;
+}
+body img {
+	position: absolute;
+	height: 40%;
+	left: 45%;
+	top: 17px;
+	border-radius: 300px;
+	border: none;
+}
+
+table th{
+	position: absolute;
+	background: darkgreen;
+	text-align: left;
+	color: white;
+	padding: 12px;
+	font-family: sans-serif;
+	left: 24%;
+	top: 343px;
+	width: 60%;
+
+}
+table td{
+	position: absolute;
+	color: black;
+	border: 1px solid rgb(200,200,200);
+	padding:10px;
+	font-weight: bold;
+	left: 24%;
+	top: 385px;
+	width: 60%;
+	font-style: italic;
+}
+.contact {
+	position: absolute;
+	background: darkgreen;
+	text-align: left;
+	color: white;
+	padding: 10px;
+	font-family: sans-serif;
+	left: 24%;
+	top: 473px;
+	width: 60%;
+}
+.brn {
+	position: absolute;
+	left: 43%;
+	top: 243px;
+
+}
+.img2 {
+	position: absolute;
+	background: darkgreen;
+	text-align: left;
+	color: white;
+	padding: 12px;
+	font-family: sans-serif;
+	left: 24%;
+	top: 500px;
+	width: 60%;
+}
+.con {
+	position: absolute;
+	text-align: left;
+	color: black;
+	padding: 12px;
+	font-family: sans-serif;
+	left: 24%;
+	top: 550px;
+	width: 60%;
+	border: 1px solid rgb(200,200,200);
+	font-weight: bold;
+	font-style: italic;
+}	
